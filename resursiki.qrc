@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/free-icon-backspace-5456223.png</file>
+    <file>icons/free-icon-calculator-8289106.png</file>
+    <file>icons/free-icon-factorial.png</file>
+    <file>icons/free-icon-math-763284.png</file>
+    <file>icons/free-icon-pi-9800851.png</file>
+    <file>icons/free-icon-step.png</file>
+  </qresource>
+</RCC>
